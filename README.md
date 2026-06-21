@@ -1,10 +1,8 @@
 # Language Translation Tool
 
-🚀 Live Demo:
-https://codealpha-language-translation-tool-x8n9.onrender.com
+🚀 [Live Demo](https://codealpha-language-translation-tool-x8n9.onrender.com)
 
-📂 GitHub Repository:
-https://github.com/boopathi-7546/CodeAlpha_Language_Translation_Tool
+📂 [GitHub Repository](https://github.com/boopathi-7546/CodeAlpha_Language_Translation_Tool)
 # 🌐 Language Translation Tool
 
 **CodeAlpha AI Internship — Task 1**
